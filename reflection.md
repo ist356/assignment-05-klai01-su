@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+In this assignment, I learned how to use Pandas to build a data pipeline. The task of uploading files to an AWS S3-compatible storage system (Minio) was something I've never learned before.
